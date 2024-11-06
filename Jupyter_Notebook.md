@@ -55,6 +55,6 @@
 
 
 ```python
-# H3: Author's name
+# H2: Author's name
 ***Vincent Sarpong***
 ```
