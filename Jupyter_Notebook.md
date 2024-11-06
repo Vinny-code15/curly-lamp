@@ -24,7 +24,7 @@
 ```python
 # Table of data science tools
 | Relational database tool | Data visulaization tools | Mode deploment |
-| ------------------------- | ------------------------ | ------------- |
+| -------------------------| ------------------------| -------------|
 |MysQl | PixieDust | Mleap |
 ```
 
@@ -56,5 +56,6 @@
 
 ```python
 # H2: Author's name
+
 ***Vincent Sarpong***
 ```
