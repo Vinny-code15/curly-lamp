@@ -25,7 +25,7 @@
 # Table of data science tools
 | Relational database tool | Data visulaization tools | Mode deploment |
 | ------------------------- | ------------------------ | ------------- |
-|MysQl                      | PixieDust                | Mleap         |
+|MysQl  PixieDust | Mleap |
 ```
 
 # H2: Introducing arithmetic expression
@@ -54,5 +54,5 @@
 
 ```python
 # Author's name
-**Vincent Sarpong**
+***Vincent Sarpong***
 ```
