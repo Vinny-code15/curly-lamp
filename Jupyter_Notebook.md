@@ -25,14 +25,16 @@
 # Table of data science tools
 | Relational database tool | Data visulaization tools | Mode deploment |
 | ------------------------- | ------------------------ | ------------- |
-|MysQl  PixieDust | Mleap |
+|MysQl | PixieDust | Mleap |
 ```
 
 # H2: Introducing arithmetic expression
 
 # Multiply and add numbers
 2*2
-2+3
+
+# addition
+2+2
 
 
 ```python
@@ -53,6 +55,6 @@
 
 
 ```python
-# Author's name
+# H3: Author's name
 ***Vincent Sarpong***
 ```
