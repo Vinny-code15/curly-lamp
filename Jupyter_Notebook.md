@@ -23,8 +23,8 @@
 
 ```python
 # Table of data science tools
-| Relational database tool | Data visulaization tools | Mode deploment |
-| -------------------------| ------------------------| -------------|
+|Relational database tool| Data visulaization tools|Mode deploment|
+|-------------------------|------------------------|-------------|
 |MysQl | PixieDust | Mleap |
 ```
 
